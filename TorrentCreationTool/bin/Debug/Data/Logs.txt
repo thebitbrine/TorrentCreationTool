@@ -1,0 +1,8 @@
+[12/13/2018 11:50 PM] ERROR: Value cannot be null.Parameter name: stream
+[12/13/2018 11:51 PM] ERROR: Index was outside the bounds of the array.
+[12/13/2018 11:51 PM] INFO: Files are saved in "C:\Users\Benny-PC\AppData\Local\Temp\TorrentCreationTool\"[12/13/2018 11:52 PM] ERROR: Index was outside the bounds of the array.
+[12/13/2018 11:52 PM] INFO: Files are saved in "C:\Users\Benny-PC\AppData\Local\Temp\TorrentCreationTool\"[12/13/2018 11:56 PM] ERROR: Index was outside the bounds of the array.
+[12/13/2018 11:56 PM] INFO: Files are saved in "C:\Users\Benny-PC\AppData\Local\Temp\TorrentCreationTool\"[12/13/2018 11:56 PM] ERROR: Index was outside the bounds of the array.
+[12/13/2018 11:56 PM] INFO: Files are saved in "C:\Users\Benny-PC\AppData\Local\Temp\TorrentCreationTool\"[12/13/2018 11:57 PM] ERROR: Index was outside the bounds of the array.
+[12/13/2018 11:57 PM] INFO: Files are saved in "C:\Users\Benny-PC\AppData\Local\Temp\TorrentCreationTool\"[12/13/2018 11:57 PM] ERROR: Index was outside the bounds of the array.
+[12/13/2018 11:57 PM] INFO: Files are saved in "C:\Users\Benny-PC\AppData\Local\Temp\TorrentCreationTool\"
